@@ -1,0 +1,11 @@
+node_modules
+.output
+.wrangler
+.tanstack
+.data
+.git
+__MACOSX
+*.md
+docs
+bun.lock
+.DS_Store
